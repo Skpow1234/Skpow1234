@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning Angular application development and unit testing. 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying systems engineer
+- 🎓 &nbsp; Studying systems engineering at the University of San Buenaventura, in Cali, Colombia.
 - 💼 &nbsp;  Front-end web developer, and soon Back-end developer too.
 - 🌱 &nbsp; Enthusiast in mobile development.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
