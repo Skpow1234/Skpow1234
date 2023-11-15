@@ -3,12 +3,13 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Angular application development and unit testing. 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying systems engineering at the University of San Buenaventura, in Cali, Colombia.
-- 💼 &nbsp;  Front-end web developer, and soon Back-end developer too.
-- 🌱 &nbsp; Enthusiast in mobile development.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🔭 &nbsp; Dedicated and results-driven software engineer with 3 years of experience in software development.
+- 🤔 &nbsp; Highly skilled in backend development using Spring Boot and .NET technologies.
+- 🎓 &nbsp; Demonstrated capacity for effective teamwork and adaptability to changing project requirements.
+- 💼 &nbsp; A self-taught individual who is passionate about continuous learning and staying up-to-date with the latest industry trends and technologies.
+- 🌱 &nbsp; Committed to delivering high-quality solutions that meet client requirements and exceed expectations.
+- ☕ &nbsp; Proven track record of successfully completing projects on time and within budget.
+- 🌐 &nbsp; A proactive problem-solver with excellent analytical and troubleshooting skills.
 
 <h3>🛠 Tech Stack</h3>
 
@@ -16,8 +17,12 @@
 - 🌐 &nbsp; Flutter | HTML5 | CSS3 | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Xampp | Postman | MongoDB
 - 🔧 &nbsp; PyCharm | VS Code | Eclipse | Git | Adobe XD | Figma
-- 🤔 &nbsp; Learning React | Vue | Django | Docker | Kubernetes
-
+- 🚀 &nbsp; Backend Technologies: Spring Boot | .NET | Express.js
+- ☁️ &nbsp; Deployment Technologies: Docker | Kubernetes | AWS | Azure | Google Cloud Platform
+- 🛠️ &nbsp; CI/CD: Jenkins | GitLab CI | GitHub Actions
+- 🧪 &nbsp; Testing: JUnit | Mockito | Selenium | Jest | Cypress
+- 🛠️ &nbsp; DevOps: Ansible | Terraform | Kubernetes | Docker
+- 🔒 &nbsp; Security: OAuth | SSL/TLS | OWASP | Encryption Algorithms
 
 <br>
 
@@ -31,10 +36,5 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/Juanfe0015" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/juanfe_0015/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/juan-felipe-h-3a3b3b13b/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto: jfhvjfhv0015@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+<!-- Your social media links go here -->
 </p>
-
-⭐️ From [Skpow1234](https://github.com/Skpow1234)
