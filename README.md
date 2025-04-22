@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Dedicated and results-driven software engineer with 5 years of experience in software development.
+- 🔭 &nbsp; Dedicated and results-driven software engineer with 6 years of experience in software development.
 - 🤔 &nbsp; Highly skilled in backend development using Spring Boot and .NET technologies.
 - 🎓 &nbsp; Demonstrated capacity for effective teamwork and adaptability to changing project requirements.
 - 💼 &nbsp; A self-taught individual who is passionate about continuous learning and staying up-to-date with the latest industry trends and technologies.
