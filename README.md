@@ -1,40 +1,45 @@
-<h2> Hey there! I'm Juan. </h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<h2> Hey there! I'm Juan 👋 </h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Dedicated and results-driven software engineer with 6 years of experience in software development.
-- 🤔 &nbsp; Highly skilled in backend development using Spring Boot and .NET technologies.
-- 🎓 &nbsp; Demonstrated capacity for effective teamwork and adaptability to changing project requirements.
-- 💼 &nbsp; A self-taught individual who is passionate about continuous learning and staying up-to-date with the latest industry trends and technologies.
-- 🌱 &nbsp; Committed to delivering high-quality solutions that meet client requirements and exceed expectations.
-- ☕ &nbsp; Proven track record of successfully completing projects on time and within budget.
-- 🌐 &nbsp; A proactive problem-solver with excellent analytical and troubleshooting skills.
+- 🔭 &nbsp; Senior Software Engineer with 6+ years of hands-on experience in full-stack and backend development.
+- 💻 &nbsp; Proficient in Spring Boot, Node.js, .NET, Go, and modern front-end frameworks.
+- 🚀 &nbsp; Proven track record in building scalable APIs, Web3 integrations, and secure cloud-native solutions.
+- 🎯 &nbsp; Experienced in designing systems for high performance and real-time processing across diverse industries.
+- 📚 &nbsp; Lifelong learner, passionate about DevOps, AI, blockchain, and emerging technologies.
+- 🤝 &nbsp; Strong communicator and team player with experience in Agile/Scrum environments.
+- ☁️ &nbsp; Skilled in AWS, Azure, and GCP deployments and CI/CD automation.
+
+---
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | C++ | Node.js | PHP | Laravel | Symfony
-- 🌐 &nbsp; Flutter | HTML5 | CSS3 | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp | Postman | MongoDB
-- 🔧 &nbsp; PyCharm | VS Code | Eclipse | Git | Adobe XD | Figma
-- 🚀 &nbsp; Backend Technologies: Spring Boot | .NET | Express.js
-- ☁️ &nbsp; Deployment Technologies: Docker | Kubernetes | AWS | Azure | Google Cloud Platform
-- 🛠️ &nbsp; CI/CD: Jenkins | GitLab CI | GitHub Actions
-- 🧪 &nbsp; Testing: JUnit | Mockito | Selenium | Jest | Cypress
-- 🛠️ &nbsp; DevOps: Ansible | Terraform | Kubernetes | Docker
-- 🔒 &nbsp; Security: OAuth | SSL/TLS | OWASP | Encryption Algorithms
+- **Languages:** Java | C# | Go | Python | TypeScript | JavaScript | PHP | SQL | Bash
+- **Frameworks:** Spring Boot | .NET 6-8 | Node.js | Nest.js | Laravel | Symfony | Quarkus | Express.js
+- **Frontend:** React.js | Angular | Next.js | Vue.js | Flutter
+- **Databases:** PostgreSQL | MySQL | SQL Server | MongoDB | Redis | Elasticsearch
+- **Cloud & DevOps:** AWS | Azure | GCP | Docker | Kubernetes | GitHub Actions | Jenkins | Terraform
+- **CI/CD & Testing:** GitLab CI | JUnit | Jest | Cypress | Selenium | Mockito
+- **Other Tools:** Git | Swagger | Supabase | Salesforce | WP-Engine | Jira | Figma | Adobe XD
 
-<br>
+---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Skpow1234&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+<h3>📈 GitHub Stats</h3>
 
-</br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Skpow1234&show_icons=true&count_private=true&hide_title=false&include_all_commits=true&theme=dark&hide_border=true" alt="Juan's GitHub stats" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skpow1234&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Skpow1234/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skpow1234&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+</p>
 
+---
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<!-- Your social media links go here -->
+  <a href="https://www.linkedin.com/in/juan-felipe-h-3a3b3b13b/"><img src="https://img.shields.io/badge/-Juan%20Felipe%20Hurtado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-felipe-h-3a3b3b13b/" /></a>
+  <a href="mailto:jfhvjfhv0015@gmail.com"><img src="https://img.shields.io/badge/-jfhvjfhv0015@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jfhvjfhv0015@gmail.com" /></a>
 </p>
