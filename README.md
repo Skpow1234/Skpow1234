@@ -1,11 +1,11 @@
 <h2> Hey there! I'm Juan  </h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Senior Software Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Senior Software Engineer" />
 
 ### Current Focus
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Currently+working+on+Go;Currently+working+on+C++;Currently+working+on+C#;Currently+working+on+Java;Currently+working+on+Docker;Currently+working+on+Azure;Currently+working+on+AWS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Currently+working+on+Go;Currently+working+on+C++;Currently+working+on+C#;Currently+working+on+Java;Currently+working+on+Docker;Currently+working+on+Azure;Currently+working+on+AWS" />
 
 <h3>  About Me </h3>
 
@@ -19,7 +19,7 @@
 
 ---
 
-### 💻 Tech Stack
+###  Tech Stack
 
 #### Languages & Frameworks
 
@@ -59,24 +59,24 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Skpow1234&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📊 Profile Summary
+### Profile Summary
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skpow1234&theme=radical" />
 
 ---
 
-### 📚 Repository Stats
+### Repository Stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Skpow1234&theme=radical" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Skpow1234&theme=radical" />
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Skpow1234&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true&show_owner=true&custom_title=Juan's%20GitHub%20Stats" />
@@ -88,7 +88,7 @@
 
 ---
 
-### 🤝🏻 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-felipe-h-3a3b3b13b/"><img src="https://img.shields.io/badge/-Juan%20Felipe%20Hurtado-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
