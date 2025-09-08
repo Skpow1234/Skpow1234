@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Juan  </h2>
 
-<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Senior Software Engineer" />
+![Typing SVG](https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer)
 
 ### Current Focus
 
