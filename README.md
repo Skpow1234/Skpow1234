@@ -1,21 +1,28 @@
-<h2> Hey there! I'm Juan 👋 </h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
+<h2> Hey there! I'm Juan  </h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Senior Software Engineer" />
 
-- 🔭 &nbsp; Senior Software Engineer with 7+ years of experience in full-stack and backend development.
-- 💻 &nbsp; Proficient in Spring Boot, Node.js, .NET, Go, and modern front-end frameworks.
-- 🚀 &nbsp; Proven track record in building scalable APIs, Web3 integrations, and secure cloud-native solutions.
-- 🎯 &nbsp; Experienced in designing systems for high performance and real-time processing across diverse industries.
-- 📚 &nbsp; Lifelong learner, passionate about DevOps, AI, blockchain, and emerging technologies.
-- 🤝 &nbsp; Strong communicator and team player with experience in Agile/Scrum environments.
-- ☁️ &nbsp; Skilled in AWS, Azure, and GCP deployments and CI/CD automation.
+### Current Focus
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Currently+working+on+Go;Currently+working+on+C++;Currently+working+on+C#;Currently+working+on+Java;Currently+working+on+Docker;Currently+working+on+Azure;Currently+working+on+AWS" />
+
+<h3>  About Me </h3>
+
+- &nbsp; Senior Software Engineer with 7+ years of experience in full-stack and backend development.
+- &nbsp; Proficient in Spring Boot, Node.js, .NET, Go, and modern front-end frameworks.
+- &nbsp; Proven track record in building scalable APIs, Web3 integrations, and secure cloud-native solutions.
+- &nbsp; Experienced in designing systems for high performance and real-time processing across diverse industries.
+- &nbsp; Lifelong learner, passionate about DevOps, AI, blockchain, and emerging technologies.
+- &nbsp; Strong communicator and team player with experience in Agile/Scrum environments.
+- &nbsp; Skilled in AWS, Azure, and GCP deployments and CI/CD automation.
 
 ---
 
 ### 💻 Tech Stack
 
 #### Languages & Frameworks
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -32,6 +39,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 #### Databases & Tools
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -39,6 +47,7 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 #### Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -50,10 +59,31 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Skpow1234&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📊 Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skpow1234&theme=radical" />
+
+---
+
+### 📚 Repository Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Skpow1234&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Skpow1234&theme=radical" />
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skpow1234&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Skpow1234&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true&show_owner=true&custom_title=Juan's%20GitHub%20Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skpow1234&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
