@@ -4,7 +4,6 @@
 
 ### Current Focus
 
-
 <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Currently+working+on+Go;Currently+working+on+C++;Currently+working+on+C#;Currently+working+on+Java;Currently+working+on+Docker;Currently+working+on+Azure;Currently+working+on+AWS" />
 
 <h3>  About Me </h3>
@@ -19,7 +18,11 @@
 
 ---
 
-###  Tech Stack
+### Portfolio
+
+<a href="https://juan-hurtado-senior-sde.vercel.app">Juan's Portfolio</a>
+
+### Tech Stack
 
 #### Languages & Frameworks
 
@@ -60,28 +63,13 @@
 
 ---
 
-### GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Skpow1234&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### Profile Summary
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skpow1234&theme=radical" />
 
 ---
 
-### Repository Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Skpow1234&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Skpow1234&theme=radical" />
-
----
-
 ### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skpow1234&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true&show_owner=true&custom_title=Juan's%20GitHub%20Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skpow1234&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
