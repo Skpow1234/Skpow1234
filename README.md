@@ -22,6 +22,14 @@
 
 <a href="https://juan-hurtado-senior-sde.vercel.app">Juan's Portfolio</a>
 
+### Current Side Projects
+
+When I'm free from work, I tinker with these ideas to try different stuff:
+
+- <a href="https://github.com/Skpow1234/ChainForge">ChainForge</a>
+- <a href="https://github.com/Skpow1234/PeerVault">PeerVault</a>
+- <a href="https://github.com/Skpow1234/ShardForge">ShardForge</a>
+
 ### Tech Stack
 
 #### Languages & Frameworks
@@ -73,6 +81,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skpow1234&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skpow1234&theme=radical&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
