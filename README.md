@@ -29,6 +29,7 @@ When I'm free from work, I tinker with these ideas to try different stuff:
 - <a href="https://github.com/Skpow1234/ChainForge">ChainForge</a>
 - <a href="https://github.com/Skpow1234/PeerVault">PeerVault</a>
 - <a href="https://github.com/Skpow1234/ShardForge">ShardForge</a>
+- <a href="https://github.com/Skpow1234/Vaultpack">Vaultpack</a>
 
 ### Tech Stack
 
