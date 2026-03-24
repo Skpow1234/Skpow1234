@@ -8,7 +8,7 @@
 
 <h3>  About Me </h3>
 
-- &nbsp; Senior Software Engineer with 7+ years of experience in full-stack and backend development.
+- &nbsp; Senior Software Engineer with 8+ years of experience in full-stack and backend development.
 - &nbsp; Proficient in Spring Boot, Node.js, .NET, Go, and modern front-end frameworks.
 - &nbsp; Proven track record in building scalable APIs, Web3 integrations, and secure cloud-native solutions.
 - &nbsp; Experienced in designing systems for high performance and real-time processing across diverse industries.
