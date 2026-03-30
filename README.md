@@ -2,9 +2,19 @@
 
 ![Typing SVG](https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Skpow1234&color=FF6B6B)
+
+*← recruiters, stalkers, and future me trying to remember what I built*
+
 ### Current Focus
 
 <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Currently+working+on+Go;Currently+working+on+C++;Currently+working+on+C#;Currently+working+on+Java;Currently+working+on+Docker;Currently+working+on+Azure;Currently+working+on+AWS" />
+
+### 🧠 What I'm doing right now
+
+- 🔴 Debugging something that "worked yesterday"
+- 🟡 Convincing myself I don't need to refactor this
+- 🟢 Writing commit messages like "fix", "fix2", "PLEASE WORK"
 
 <h3>  About Me </h3>
 
@@ -87,6 +97,8 @@ When I'm free from work, I tinker with these ideas to try different stuff:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skpow1234&theme=radical&hide_border=true&bg_color=0D1117" />
 </p>
+
+> *Yes, those green squares are real. No, I won't explain the gaps — we don't talk about those weeks.*
 
 ---
 
