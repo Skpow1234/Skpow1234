@@ -95,6 +95,9 @@ When I'm free from work, I tinker with these ideas to try different stuff:
 </p>
 
 <p align="center">
+  <img src="https://lp-climb.onrender.com/v1/render.svg?user=Skpow1234&theme=mono&width=900&height=260&_t=1776370790284" alt="small try" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skpow1234&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
