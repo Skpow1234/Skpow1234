@@ -40,6 +40,8 @@ When I'm free from work, I tinker with these ideas to try different stuff:
 - <a href="https://github.com/Skpow1234/PeerVault">PeerVault</a>
 - <a href="https://github.com/Skpow1234/ShardForge">ShardForge</a>
 - <a href="https://github.com/Skpow1234/Vaultpack">Vaultpack</a>
+- <a href="https://github.com/Skpow1234/Sip-Happens">Sip-Happens</a>
+- <a href="https://github.com/Skpow1234/blockchain-cplusplus">Blockchain C++</a>
 
 ### Tech Stack
 
